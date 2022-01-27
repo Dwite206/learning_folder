@@ -101,4 +101,4 @@ handler.setFormatter(
 logger.addHandler(handler)
 
 
-bot.run("ODI0MjA1MjMwNzc4NDgyNzQ4.YFr-8A.18F71HerPviHejbGfDnrNqFIFvg")
+bot.run("")
